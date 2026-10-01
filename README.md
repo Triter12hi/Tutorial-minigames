@@ -1,6 +1,8 @@
 # Tutorial-minigames
 Just my tutorial learn for stardance
 
+I wish i could have made it better but i'm still learning c#                                                                                                                                                                    
+
 Press escape to exit any scene                                                                                                                                                                                           
 In scene #1 Enter the four digit code: 2004                                                                                                                                                                                     
 In scene #2 Just watch the physics                                                                                                                                                                                             
